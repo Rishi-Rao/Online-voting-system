@@ -1,0 +1,22 @@
+Mini-project Title - Online Voting System 
+based on Socket Programming 
+
+Objective - To create an application for safe online voting and eliminate the need of offline voting 
+
+Key features - 
+    ✅Validation of voter id
+    ✅Displaying list of candidates based on constituency (From a Database via Socket Programming) Using TCP 
+    ✅Recording user when they are voting and send it to a secure server (via Socket Programming) Using UDP
+    ✅Only the user must be present in front of the screen at the time of voting ( Verified by ML and Image Processing )
+    ✅Multi -Threaded server - for handling multiple client requests at a time 
+    ✅Later Ensuring only one vote per user 
+    ✅Sending encrypted polling details to a server (via Socket Programming) Using TCP
+    ✅SSL
+
+Unique features - 
+    ✅Recording users and 
+    ✅Checking if multiple users are present at the time of voting 
+
+In conclusion, the Online Voting System employs Socket Programming to secure, streamline, and ensure precise voting, 
+integrating user authentication, candidate listing, encrypted data transmission, 
+and multi-threaded server functionalities for enhanced efficiency and accuracy.
